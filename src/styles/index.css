@@ -1,3 +1,22 @@
+body {
+ background-color: white
+}
+.bg-grey-custom {
+    background-color: #eaecef;
+}
+.light-gray {
+    color: #bdbdbd!important;
+}
+
+/* MAIN BANNER STYLES */
+.main-title {
+    font-size: 70px !important;
+    font-weight: 300;
+}
+.main-text {
+    font-weight: 300;
+    font-size: 18px;
+}
 
 /* 
 
